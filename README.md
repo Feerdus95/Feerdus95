@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, Feer here!
 
-<!--
-**Feerdus95/Feerdus95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full Stack Developer | 🌱 Lifelong Tech & Videogames Enthusiast
 
-Here are some ideas to get you started:
+## About Me
+🚀 From PC building to web development, my tech journey has been driven by curiosity and continuous learning.  
+🎯 Currently focused on mastering the MERN stack and exploring new technologies.  
+🔭 Future goals include diving deep into networking, advanced programming concepts, and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat)
+![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?logo=salesforce&logoColor=white&style=flat)
+
+## Currently Working On
+🔨 Building full-stack applications with MERN stack  
+📚 Expanding knowledge in web development and programming fundamentals  
+🌐 Learning about networking architecture  
+🤖 Exploring Machine Learning concepts
+
+## Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)]([https://www.linkedin.com/in/federico-boccardo/](https://www.linkedin.com/in/fernando-verdus-martínez/))
