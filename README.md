@@ -25,6 +25,15 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?logo=salesforce&logoColor=white&style=flat)
 
+## 🧠 Recently Learned
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?logo=github&logoColor=white&style=flat)
+
+🎓 Completed CI/CD, Docker, and containerization modules from the Full Stack Open course  
+⚙️ Gained hands-on experience with DevOps practices and deployment workflows  
+📦 Built and deployed containerized applications using Docker and GitHub Actions
+
 ## Currently Working On
 🔨 Building full-stack applications with MERN stack  
 📚 Expanding knowledge in web development and programming fundamentals  
