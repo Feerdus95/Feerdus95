@@ -32,4 +32,4 @@
 🤖 Exploring Machine Learning concepts
 
 ## Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)]([https://www.linkedin.com/in/federico-boccardo/](https://www.linkedin.com/in/fernando-verdus-martínez/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/fernando-verdus-martinez/)
