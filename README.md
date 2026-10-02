@@ -1,54 +1,39 @@
-# 👋 Hi, Fernando (Feer) here!
-
-### 💻 Full Stack Developer | 🌱 Lifelong Tech & Videogames Enthusiast
-
+# 👋 Hi, I'm Fernando (Feer)
+ 
+### 💻 Full Stack Developer & DevOps | 🎮 Tech and videogames enthusiast
+ 
 ## About Me
-🚀 From PC building to web development, my tech journey has been driven by curiosity and continuous learning.  
-🎯 Currently focused on mastering the MERN stack and exploring new technologies.  
-🔭 Future goals include diving deep into networking, advanced programming concepts, and Machine Learning.
-
+I build and ship web products end to end: from the UI to the database, and from the CI/CD pipeline to production monitoring.
+I also like hardware, game modding and reverse engineering in my free time.
+ 
+## What I Work On
+- 🌟 **QualityStars:** business review platform. Frontend in Next.js 16 with 2FA, real-time chat, push notifications, payments and 4 languages.
+- 🧾 **Voyvo CRM:** multi-tenant CRM with a Rust/Axum backend and a Next.js frontend, including Verifactu e-invoicing, Stripe billing and GDPR compliance.
+- ⚙️ **DevOps:** GitLab CI/CD with Docker across several projects, plus observability with OpenTelemetry, Prometheus, Grafana, Loki and Tempo.
+- 🔒 **Security:** secret scanning, pre-push hooks, CSP and HTML sanitization.
 ## Tech Stack
 ### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&style=flat)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white&style=flat)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=flat)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white&style=flat)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&style=flat)
-![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?logo=salesforce&logoColor=white&style=flat)
-![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white&style=flat)
-
-## 🧠 Currently Learning
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?logo=github&logoColor=white&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
+![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat)
+ 
+### Backend & Data
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
+![Bun](https://img.shields.io/badge/-Bun-000000?logo=bun&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=flat)
+ 
+### DevOps & Observability
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white&style=flat)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white&style=flat)
-
-🎓 Completed CI/CD, Docker, and containerization modules from the Full Stack Open course  
-⚙️ Gained hands-on experience with DevOps practices and deployment workflows  
-📦 Built and deployed containerized applications using Docker and GitHub Actions  
-📜 Currently learning Solidity for smart contract and blockchain development
-
-## Currently Working On
-🔨 Building full-stack applications with MERN stack  
-📚 Expanding knowledge in web development and programming fundamentals  
-🌐 Learning about networking architecture  
-🤖 Exploring Web3 & Machine Learning concepts
-
+![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?logo=gitlab&logoColor=white&style=flat)
+![Traefik](https://img.shields.io/badge/-Traefik-24A1C1?logo=traefikproxy&logoColor=white&style=flat)
+![Terraform](https://img.shields.io/badge/-Terraform-844FBA?logo=terraform&logoColor=white&style=flat)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=flat)
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-425CC7?logo=opentelemetry&logoColor=white&style=flat)
+ 
 ## Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/fernando-verdus-martinez/)
